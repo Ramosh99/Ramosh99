@@ -17,7 +17,7 @@
  🌱 I’m currently reading for my **IT Degree @ University of Moratuwa**
 
 
-⚡ Fun fact ****
+⚡ Fun fact **I Like To Watch Screen Always Everytime**
 
  </div>
  
@@ -25,7 +25,10 @@
   <a href="brocom727@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="www.linkedin.com/in/yasiru-ramosh-577377240">
+    <a href="https://yasiruramosh.vercel.app/">
+    <img src="https://img.shields.io/badge/portfolio-8A2BE2" />
+  </a>
+  <a href="https://linkedin.com/in/yasiru-ramosh-577377240">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="" target="_blank">
@@ -44,8 +47,8 @@
 </div>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,materialui,ps,html,css,vscode,github,figma,tailwind,git,js,blender,cs" />
-    <img src="https://skillicons.dev/icons?i=django,python,javascript,c,java,nextjs,mysql,dotnet,postman,powershell,visualstudio,vite" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,materialui,ps,html,css,vscode,github,figma,tailwind,git,js,blender,cs,flask" />
+    <img src="https://skillicons.dev/icons?i=django,python,javascript,c,java,nextjs,mysql,dotnet,postman,powershell,visualstudio,vite,nextjs" /><br>
 </div>
 
 
