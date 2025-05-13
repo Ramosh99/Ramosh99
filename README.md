@@ -6,9 +6,7 @@
 
 <h3 align="center">A software developer</h3>
 
-<div align="center" style="width:100px; height:100px">
-    <img src="https://github.com/Ramosh99/Ramosh99/assets/108927477/076dc152-c344-4342-b53f-1b75edd11b09" alt="Profile Image">
-</div>
+
 
 <br/>
 
@@ -27,10 +25,10 @@
 </div>
  
 <div align="center">
-    <a href="mailto:brocom727@gmail.com">
+    <a href="mailto:yasiram447@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail">
     </a>
-    <a href="https://yasiruramosh.vercel.app/">
+    <a href="https://yasiruramosh.me/">
         <img src="https://img.shields.io/badge/portfolio-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
     </a>
     <a href="https://linkedin.com/in/yasiru-ramosh-577377240" target="_blank">
@@ -43,10 +41,6 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 
-<div align="center">
-    <img src="https://github.com/Ramosh99/Ramosh99/assets/108927477/a059bf77-2f0b-421c-9b49-5cac383526ef" alt="Skills Banner">
-</div>
-<br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,materialui,ps,html,css,vscode,github,figma,tailwind,git,js,blender,cs,flask,django,python,javascript,c,java,nextjs,mysql,dotnet,postman,powershell,visualstudio,vite" alt="Skills">
 </div>
